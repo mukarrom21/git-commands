@@ -8,7 +8,7 @@ ___
 
 _A list of my commonly used Git commands_
 
-Follow me!: https://github.com/mukarrom21.git*
+Follow me!: https://github.com/mukarrom21
 
 --
 
