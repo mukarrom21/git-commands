@@ -1,16 +1,14 @@
 Git Commands
 ============
-
-## Translated Versions
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [Türkçe versiyon](READMEtr.md)
-
+## Headings
+- [All delete commands](delete.md)
+- [All Edit commands](edit.md)
+- [All advance commands](advance.md)
 ___
 
 _A list of my commonly used Git commands_
 
-*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+*If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/mukarrom1.git*
 
 --
 
